@@ -1,0 +1,28 @@
+{
+  "name": "lab18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-401-advanced-javascript/Lab18.git"
+  },
+  "author": "Jeremy Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremy-401-advanced-javascript/Lab18/issues"
+  },
+  "homepage": "https://github.com/jeremy-401-advanced-javascript/Lab18#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.1.7",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0",
+    "util": "^0.12.1"
+  }
+}
